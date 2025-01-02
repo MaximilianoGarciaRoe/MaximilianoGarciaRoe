@@ -1,6 +1,7 @@
 # Hello, I'm Maximiliano Garcia Roe! 👋
 
 Welcome to my GitHub profile! I'm a passionate developer with a love for technology and innovation. Here you'll find a collection of my projects, contributions, and collaborations.
+My personal webpage
 
 ## 🚀 About Me
 
@@ -20,9 +21,9 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for technol
 
 ## 📫 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
-- [Twitter](https://twitter.com/your-twitter-handle)
+- [LinkedIn](https://www.linkedin.com/in/maximiliano-garcia-roe-295910104/)
 - [Email](mailto:mrgarciaroe@gmail.com)
+- [WebPage](https://www.maximilianogarcia.cl/)
 
 ## 📝 Recent Blog Posts
 
