@@ -35,10 +35,6 @@ WIP
 
 WIP
 
-## 📊 Contribution Graph
-
-![Maximiliano's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=MaximilianoGarciaRoe&theme=redical)
-
 
 Thanks for visiting my profile! Feel free to explore my repositories and get in touch if you'd like to collaborate on a project or just chat about tech!
 
