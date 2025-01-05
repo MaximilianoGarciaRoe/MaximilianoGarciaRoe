@@ -1,14 +1,14 @@
-# Hello, I'm Maximiliano Garcia Roe! 👋
+# Hello, I'm Maximiliano Garcia Roe! 👋  
 
-Welcome to my GitHub profile! I'm a passionate developer with a love for technology and innovation. Here you'll find a collection of my projects, contributions, and collaborations.
-My personal webpage
+Welcome to my GitHub profile! I'm a passionate developer, university professor, and lifelong learner with a deep love for technology and innovation. Here, you'll find a collection of my projects, contributions, and collaborations.  
 
-## 🚀 About Me
+## 🚀 About Me  
 
-- 🌍 Based in: Chile
-- 💻 Currently working on: Buk
-- 🎓 Education: MSC Engineering
-- 📫 How to reach me: mrgarciaroe@gmail.com
+- 🌍 **Based in:** Chile  
+- 💻 **Currently working at:** [Buk](https://www.buk.cl/)  
+- 🎓 **Education:** MSc in Engineering  
+- 🎓 **University Professor:** Teaching Databases and Web Technologies  
+- 📫 **How to reach me:** mrgarciaroe@gmail.com  
 
 ## 🛠️ Skills
 
